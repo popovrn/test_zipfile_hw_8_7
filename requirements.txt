@@ -1,0 +1,7 @@
+pytest
+PyPDF
+xlrd
+openpyxl
+PIL
+
+
